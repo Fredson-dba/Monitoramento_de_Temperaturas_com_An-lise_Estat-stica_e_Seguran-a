@@ -1,0 +1,1 @@
+# Monitoramento_de_Temperaturas_com_An-lise_Estat-stica_e_Seguran-a
