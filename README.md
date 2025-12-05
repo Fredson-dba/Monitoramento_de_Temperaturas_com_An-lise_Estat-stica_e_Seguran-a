@@ -1,4 +1,4 @@
-# Monitoramento de Temperaturas com Análise Estatéstica e Segurança
+# Monitoramento de Temperaturas com Análise Estatística e Segurança
 
 🧩 DESAFIO PRÁTICO
 
